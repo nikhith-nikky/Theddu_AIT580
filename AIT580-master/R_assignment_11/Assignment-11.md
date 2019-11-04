@@ -32,4 +32,5 @@
 
 ### References
 [1] Ben Winston, SOC573 Final Paper: The Impact of Gentrification in Washington DC, https://sites.psu.edu/benwinston/2017/12/12/soc573-final-paper-the-impact-of-gentrification-in-washington-dc/.
+
 [2] National Institute on Drug Abuse, Washington D.C. Opioid Summary, https://www.drugabuse.gov/opioid-summaries-by-state/washington-dc-opioid-summary.
