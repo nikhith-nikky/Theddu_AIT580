@@ -1,4 +1,5 @@
 **TASK 1**
+
 **a) Find one example of distortion or unnecessary detail in a visualization, explain the problem and suggest a solution ?**
 
 [The Impact of Gentrification in Washington DC](https://sites.psu.edu/benwinston/2017/12/12/soc573-final-paper-the-impact-of-gentrification-in-washington-dc/ "Washington DC population structure")
