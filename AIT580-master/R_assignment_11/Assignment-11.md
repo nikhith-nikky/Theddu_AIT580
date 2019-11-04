@@ -1,6 +1,6 @@
-**TASK 1**
+## TASK 1
 
-**a) Find one example of distortion or unnecessary detail in a visualization, explain the problem and suggest a solution ?**
+#### a) Find one example of distortion or unnecessary detail in a visualization, explain the problem and suggest a solution ?
 
 [The Impact of Gentrification in Washington DC](https://sites.psu.edu/benwinston/2017/12/12/soc573-final-paper-the-impact-of-gentrification-in-washington-dc/ "Washington DC population structure")
 ![](https://sites.psu.edu/benwinston/files/2017/12/F1-28kpqz6.png)
@@ -16,7 +16,7 @@
 - Instead of percentage of population, the count of population can be used or the total population can be shown in the legend and use percentage of population.
 - A proper name can be given instead of 'pyramid'.
 
-**b) Find one example of misleading interpretation, explain the problem and suggest a solution ?**
+#### b) Find one example of misleading interpretation, explain the problem and suggest a solution ?**
 
 [Washington D.C. Opioid Summary](https://www.drugabuse.gov/opioid-summaries-by-state/washington-dc-opioid-summary "Washington D.C. Opioid Summary")
 ![](https://d14rmgtrwzf5a.cloudfront.net/sites/default/files/fig1dc.jpg)
@@ -29,3 +29,7 @@
 **SOLUTION**
 - A stacked histogram can be used where the total count is described by the bar and count of deaths for different drugs can be stacked in the bar and plotted for different years.
 - Another bar plot which represents the comparison of deaths caused by different drugs can be made, where a line plot or 3 bars describing counts of deaths for Rx Opioids, Synthetic Opioids, Heroin can be made for different years.
+
+### References
+[1] Ben Winston, SOC573 Final Paper: The Impact of Gentrification in Washington DC, https://sites.psu.edu/benwinston/2017/12/12/soc573-final-paper-the-impact-of-gentrification-in-washington-dc/.
+[2] National Institute on Drug Abuse, Washington D.C. Opioid Summary, https://www.drugabuse.gov/opioid-summaries-by-state/washington-dc-opioid-summary.
