@@ -1,5 +1,5 @@
-##TASK 1
-####a) Find one example of distortion or unnecessary detail in a visualization, explain the problem and suggest a solution ?
+**TASK 1**
+**a) Find one example of distortion or unnecessary detail in a visualization, explain the problem and suggest a solution ?**
 
 [The Impact of Gentrification in Washington DC](https://sites.psu.edu/benwinston/2017/12/12/soc573-final-paper-the-impact-of-gentrification-in-washington-dc/ "Washington DC population structure")
 ![](https://sites.psu.edu/benwinston/files/2017/12/F1-28kpqz6.png)
@@ -15,12 +15,12 @@
 - Instead of percentage of population, the count of population can be used or the total population can be shown in the legend and use percentage of population.
 - A proper name can be given instead of 'pyramid'.
 
-####b) Find one example of misleading interpretation, explain the problem and suggest a solution ?
+**b) Find one example of misleading interpretation, explain the problem and suggest a solution ?**
 [Washington D.C. Opioid Summary](https://www.drugabuse.gov/opioid-summaries-by-state/washington-dc-opioid-summary "Washington D.C. Opioid Summary")
 ![](https://d14rmgtrwzf5a.cloudfront.net/sites/default/files/fig1dc.jpg)
 - The graph named 'Number of Overdose Deaths' describes the deaths caused due to the overdose of different drugs in different years.
 
-** PROBLEM**
+**PROBLEM**
 - In the above graph the bars which are used for the count of deaths and corresponding comparision of count for different drugs is clumsy as too much data is invovled in the graph.
 -Proper comparision of different plots cannot be made as the scatter plot is combined with the bar plot and comparision of bar plot with scatter plot is not correct.
 
